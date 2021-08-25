@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishhari131506
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently looking for Data Scientist internships.
+- 🌱 I’m currently looking for Data Scientist Jobs.
 - 💞️ I’m looking to collaborate on a Data science Journey.
 - 📫 How to reach me  www.linkedin.com/in/harish-m-9925a81b7
 
